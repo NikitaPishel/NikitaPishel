@@ -6,9 +6,13 @@ I love computer science, and build projects both for myself and for the world.
 - Languages: C++, Python, TypeScript, JavaScript
 - Frameworks: Vue.js, Flask, Electron, SCSS
 - Specialties: Low-level, AI Agents, Application Development
+
+### 🧩 My Specialties
+- AI Agents: I know how to work with context, JSON-RPC-2.0, MCP, RAG, etc.
+- Architecture: solo-building and maintaining 15,000+ LOC codebases (Cluster IDE app)
  
 ### 🚀 What I'm building now
-[Cluster IDE](https://x.com/ClusterIde) - AI IDE that focuses on context management via diagrams
+[Cluster IDE](https://x.com/ClusterIde) - AI IDE that focuses on context management via diagrams. Lead Developer for the desktop application.
 
 ### 📂 My other projects
 - [nano-gph](https://github.com/NikitaPishel/nano-gph) - mini TUI graphics library for C++
