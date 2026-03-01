@@ -2,12 +2,12 @@
 I'm a Computer Science student in the UK.
 I love computer science, and build projects both for myself and for the world.
 
-### My stack
+### 🛠️ My stack
 - Languages: C++, Python, TypeScript, JavaScript
 - Frameworks: Vue.js, Flask, Electron, SCSS
 - Specialties: Low-level, AI Agents, Application Development
 
-### 🧩 My Specialties
+### ⚡ My Specialties
 - AI Agents: I know how to work with context, JSON-RPC-2.0, MCP, RAG, etc.
 - Architecture: solo-building and maintaining 15,000+ LOC codebases (Cluster IDE app)
  
